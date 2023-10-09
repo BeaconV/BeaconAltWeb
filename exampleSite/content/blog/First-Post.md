@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 date: 2023-10-09T12:33:46+10:00
-draft: true
+draft: false
 featured: true
 weight: 1
 ---
