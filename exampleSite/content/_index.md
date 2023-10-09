@@ -1,12 +1,12 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
+meta_title: 'Beacon Medical Group'
+description: "Beacon Medical Group: Providing excellent patient care in Plymouth and the South Hams"
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Beacon Medical Group.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Beacon Medical Group provide excellent patient care to patients in Plymouth and the South Hams.
