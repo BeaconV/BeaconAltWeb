@@ -1,4 +1,4 @@
-# Hugo Serif Theme
+# Beacon Med Alt - Serif Theme
 
 Serif is a modern business theme for Hugo. It contains multiple content types and pages. The theme is fully responsive, blazing fast and artfully illustrated.
 
