@@ -20,7 +20,7 @@ title = "Beacon Medical Group"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/favicon-32x32-2.svg"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
