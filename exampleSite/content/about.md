@@ -1,11 +1,9 @@
 ---
-title: 'About'
+title: 'About Us'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Beacon Medical Group was formed in April 2014 when three groups of family doctors agreed to merge to form one single practice. Each practice had a strong foundation of supporting their local community for decades but wanted to enhance their offer – to provide additional services and to secure a service for many years to come. Early on, Beacon introduces new groundbreaking services which provided faster access to help and at times bringing traditional hospital services out to the community. Our Urgent Care Team for example has meant that we have offered 10% more appointments to our community.
 
 ![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
 
